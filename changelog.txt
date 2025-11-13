@@ -1,4 +1,4 @@
 CHANGELOG
 --------------------------------------
-V 1.0
-OnGo TV App Launch
+V 0.9.0
+OnGo TV App Early Access Launch
