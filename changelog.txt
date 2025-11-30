@@ -1,4 +1,10 @@
 CHANGELOG
 --------------------------------------
-V 0.9.0
-OnGo TV App Early Access Launch
+V 0.9.1 early access (12/01/2025)
+- Guide system implemented
+- Account Login with google intergrated
+- Internet Speed Check system implemented
+- Some minor bug fixes
+
+V 0.9.0 (11/01/2025)
+- OnGo TV App Early Access Launch
