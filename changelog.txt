@@ -1,6 +1,6 @@
 CHANGELOG
 --------------------------------------
-V 0.9.1 early access (12/01/2025)
+V 0.9.1 early access[UNSTABLE] (12/01/2025)
 - Guide system implemented
 - Account Login with google intergrated
 - Internet Speed Check system implemented
